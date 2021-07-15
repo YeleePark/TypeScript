@@ -21,3 +21,5 @@
 ### 02_type-project-quiz : 타입 활용
 ### 03_OOP : 객체지향 프로그래밍
 ### 04_OOP_stack : 스택 구현
+### 05_Generic : 제네릭
+### 05_Generic_stack : 제네릭으로 스택구현
